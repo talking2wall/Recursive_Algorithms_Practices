@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\talki\source\repos\Knapshack_Problem\Knapshack_Problem\Source.c(82,33): warning C4133: 'function': incompatible types - from 'item *' to 'item *'
+C:\Users\talki\source\repos\Knapshack_Problem\Knapshack_Problem\Source.c(84,9): warning C4133: 'function': incompatible types - from 'item *' to 'item *'
+C:\Users\talki\source\repos\Knapshack_Problem\Knapshack_Problem\Source.c(103,23): warning C4133: '=': incompatible types - from 'item *' to 'item *'
+C:\Users\talki\source\repos\Knapshack_Problem\Knapshack_Problem\Source.c(104,20): warning C4133: '=': incompatible types - from 'item *' to 'item *'
+C:\Users\talki\source\repos\Knapshack_Problem\Knapshack_Problem\Source.c(117,20): warning C4133: '=': incompatible types - from 'item *' to 'item *'
+C:\Users\talki\source\repos\Knapshack_Problem\Knapshack_Problem\Source.c(124,20): warning C4133: '=': incompatible types - from 'item *' to 'item *'
+  Knapshack_Problem.vcxproj -> C:\Users\talki\source\repos\Knapshack_Problem\x64\Debug\Knapshack_Problem.exe
